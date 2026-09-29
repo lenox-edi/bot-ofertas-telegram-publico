@@ -2,6 +2,18 @@
 
 Versão pública do projeto para uso independente. Cada instalação deve utilizar seu próprio bot, canal e credenciais.
 
+## 🎯 Objetivo do projeto
+
+Este projeto foi criado para disponibilizar gratuitamente um bot de ofertas para Telegram.
+
+A ideia surgiu porque, ao procurar tutoriais e soluções semelhantes, encontrei muitas opções que envolviam custos ou serviços pagos.
+
+Por isso, este projeto foi disponibilizado publicamente para que outras pessoas possam aprender, instalar, modificar e utilizar o bot sem precisar comprar uma solução pronta.
+
+**Projeto gratuito e aberto para a comunidade.**
+
+> O código é disponibilizado gratuitamente, mas serviços externos, APIs de afiliados, hospedagem e outros recursos de terceiros podem ter suas próprias regras, limites ou custos.
+
 ## Implantação no Railway
 1. Faça um Fork deste repositório para sua conta GitHub.
 2. Acesse https://railway.com/ e escolha **New Project → Deploy from GitHub repo**.
